@@ -1,0 +1,8 @@
+site_name: "hello-world-docs-sbg"
+site_description: "hello world docs sbg"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core

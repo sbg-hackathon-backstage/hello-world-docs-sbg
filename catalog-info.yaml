@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "hello-world-docs-sbg"
+  description: "hello world docs sbg"
+  annotations:
+    github.com/project-slug: sbg-hackathon-backstage/hello-world-docs-sbg
+    backstage.io/techdocs-ref: url:https://github.com/sbg-hackathon-backstage/hello-world-docs-sbg
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: "tapayne88"
